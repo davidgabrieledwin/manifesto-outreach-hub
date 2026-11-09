@@ -7,8 +7,8 @@
  * personal access token in this file.
  */
 window.MANIFESTO_SUPABASE_CONFIG = Object.freeze({
-  url: "",
-  publishableKey: "",
+  url: "https://wrdjuifdnpgcdltidjcq.supabase.co",
+  publishableKey: "sb_publishable_ozbrtzD1BVAN6lksem7A3Q_iYAeOUeS",
 });
 
 window.getManifestoSupabaseConfig = function getManifestoSupabaseConfig() {
